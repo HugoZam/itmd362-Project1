@@ -36,3 +36,13 @@ body {
 	  color: white ;
     text-align: center;
 }
+/* State */
+
+@media screen and (min-width: 370px) {
+
+  body {
+    padding-right: 5.9459459%; /* 22 / 370 = 0.059459459 */
+    padding-left: 5.9459459%; /* 22 / 370 = 0.059459459 */
+    }
+
+}
