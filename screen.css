@@ -24,7 +24,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 html {
 	font-size:1.125em;
 	line-height:1.222em;
-
+	font-family: 'Faustina';
 }
 body {
   background-color: gray;
@@ -33,7 +33,7 @@ body {
   h1 {
     font-size: 2.25em;
     line-height:1.0864em;
-		font-family: Faustina;
+
 	  color: white ;
     text-align: center;
 }
